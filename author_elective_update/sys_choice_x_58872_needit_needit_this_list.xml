@@ -21,6 +21,46 @@
             <element>this_list</element>
             <hint/>
             <inactive>false</inactive>
+            <label>Dummy B</label>
+            <language>en</language>
+            <name>x_58872_needit_needit</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-23 14:43:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a2fc1e672f30301035861e282799b6d1</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-23 14:43:47</sys_updated_on>
+            <value>dummy_b</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>this_list</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Dummy C</label>
+            <language>en</language>
+            <name>x_58872_needit_needit</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-23 14:43:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>980d9e272f30301035861e282799b64c</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-23 14:43:58</sys_updated_on>
+            <value>dummy_c</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>this_list</element>
+            <hint/>
+            <inactive>false</inactive>
             <label>Dummy A</label>
             <language>en</language>
             <name>x_58872_needit_needit</name>

@@ -3,6 +3,8 @@
         <element choice="1" label="This list" mandatory="true" max_length="4000" name="this_list" type="glide_list">
             <choice>
                 <element inactive_on_update="false" label="Dummy A" value="dumy_a"/>
+                <element inactive_on_update="false" label="Dummy B" value="dummy_b"/>
+                <element inactive_on_update="false" label="Dummy C" value="dummy_c"/>
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" label="Other" max_length="40" name="u_other" type="string"/>
