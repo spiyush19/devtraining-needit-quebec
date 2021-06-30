@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element audit="true" extends="task" label="NeedIt" max_length="40" name="x_58872_needit_needit" sizeclass="5" type="collection">
         <element dependent="table_hai" dependent_on_field="table_hai" label="Condition hai" max_length="1024" name="condition_hai" type="conditions" use_dependent_field="true"/>
-        <element default="sys_user" label="Table hai" max_length="80" name="table_hai" type="table_name"/>
+        <element default="sys_user" label="Table hai" max_length="80" name="table_hai" read_only="true" type="table_name"/>
         <element choice="1" label="This list" mandatory="true" max_length="4000" name="this_list" type="glide_list">
             <choice>
                 <element inactive_on_update="false" label="Dummy A" value="dumy_a"/>
