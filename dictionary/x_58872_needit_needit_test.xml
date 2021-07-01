@@ -1,3 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Needit_test" max_length="40" name="x_58872_needit_needit_test" type="collection"/>
+    <element label="Needit_test" max_length="40" name="x_58872_needit_needit_test" sizeclass="0" type="collection"/>
 </database>
