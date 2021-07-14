@@ -1,3 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Needit_test" max_length="40" name="x_58872_needit_needit_test" sizeclass="0" type="collection"/>
+    <element label="Needit_test" max_length="40" name="x_58872_needit_needit_test" type="collection">
+        <element choice="3" default="choice123" label="ChoiceTest" max_length="40" name="choicetest" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Choice123" value="choice123"/>
+                <element inactive_on_update="false" label="Choice456" value="choice456"/>
+            </choice>
+        </element>
+    </element>
 </database>
